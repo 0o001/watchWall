@@ -1,0 +1,17 @@
+C:\Users\musta\source\repos\watch-Wall\watch-Wall\obj\Debug\watchWall.frm_wallpaper.resources
+C:\Users\musta\source\repos\watch-Wall\watch-Wall\obj\Debug\watchWall.Properties.Resources.resources
+C:\Users\musta\source\repos\watch-Wall\watch-Wall\obj\Debug\watchWall.csproj.GenerateResource.cache
+C:\Users\musta\source\repos\watch-Wall\watch-Wall\bin\Debug\watchWall.exe.config
+C:\Users\musta\source\repos\watch-Wall\watch-Wall\bin\Debug\watchWall.exe
+C:\Users\musta\source\repos\watch-Wall\watch-Wall\bin\Debug\watchWall.pdb
+C:\Users\musta\source\repos\watch-Wall\watch-Wall\obj\Debug\watchWall.exe
+C:\Users\musta\source\repos\watch-Wall\watch-Wall\obj\Debug\watchWall.pdb
+C:\Users\musta\source\repos\watch-Wall\watchWall\bin\Debug\watchWall.exe.config
+C:\Users\musta\source\repos\watch-Wall\watchWall\bin\Debug\watchWall.exe
+C:\Users\musta\source\repos\watch-Wall\watchWall\bin\Debug\watchWall.pdb
+C:\Users\musta\source\repos\watch-Wall\watchWall\obj\Debug\watchWall.csprojAssemblyReference.cache
+C:\Users\musta\source\repos\watch-Wall\watchWall\obj\Debug\watchWall.frm_wallpaper.resources
+C:\Users\musta\source\repos\watch-Wall\watchWall\obj\Debug\watchWall.Properties.Resources.resources
+C:\Users\musta\source\repos\watch-Wall\watchWall\obj\Debug\watchWall.csproj.GenerateResource.cache
+C:\Users\musta\source\repos\watch-Wall\watchWall\obj\Debug\watchWall.exe
+C:\Users\musta\source\repos\watch-Wall\watchWall\obj\Debug\watchWall.pdb
